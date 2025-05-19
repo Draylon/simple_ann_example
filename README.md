@@ -7,6 +7,7 @@ Este projeto demonstra como construir, treinar e avaliar uma Rede Neural Artific
 ```
 main.py # Script principal para treinamento, avaliação, visualização e teste
 README.md # Este arquivo
+requirements.txt #arquivo de dependências para main.py
 ```
 
 ## 🚀 Recursos
