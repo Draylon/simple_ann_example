@@ -92,10 +92,11 @@ l2_reg=0.001
 ```plaintext
 Número de GPUs Disponíveis: 0
 
-Tempo de treinamento: 7.6345 segundos
-Precisão: 0,9999
+Training Time: 7.6345 segundos
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 125ms/step - accuracy: 1.0000 - loss: 0.2178
+Accuracy: 1.0
 
-✅ Previsões corretas: 10/10 | Total: 10
+✅ Correct predictions: 10/10 | Total: 10
 ```
 
 ## 📌 Observações
